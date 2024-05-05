@@ -1,0 +1,56 @@
+Metric,Comparison,Test,Statistic,P-Value
+accuracy,Decision Tree vs SVM,Wilcoxon,0.0,0.0625
+accuracy,Decision Tree vs KNN,Wilcoxon,0.0,0.0625
+accuracy,Decision Tree vs MLP,Wilcoxon,0.0,0.0625
+accuracy,Decision Tree vs LVQ,Wilcoxon,0.0,0.0625
+accuracy,SVM vs KNN,Wilcoxon,0.0,0.0625
+accuracy,SVM vs MLP,Wilcoxon,7.0,1.0
+accuracy,SVM vs LVQ,Wilcoxon,0.0,0.0625
+accuracy,KNN vs MLP,Wilcoxon,0.0,0.0625
+accuracy,KNN vs LVQ,Wilcoxon,0.0,0.0625
+accuracy,MLP vs LVQ,Wilcoxon,0.0,0.0625
+accuracy,All models,Friedman,19.040000000000006,0.0007718488689673323
+precision,Decision Tree vs SVM,Wilcoxon,0.0,0.0625
+precision,Decision Tree vs KNN,Wilcoxon,0.0,0.0625
+precision,Decision Tree vs MLP,Wilcoxon,0.0,0.0625
+precision,Decision Tree vs LVQ,Wilcoxon,0.0,0.0625
+precision,SVM vs KNN,Wilcoxon,0.0,0.0625
+precision,SVM vs MLP,Wilcoxon,2.0,0.1875
+precision,SVM vs LVQ,Wilcoxon,0.0,0.0625
+precision,KNN vs MLP,Wilcoxon,0.0,0.0625
+precision,KNN vs LVQ,Wilcoxon,0.0,0.0625
+precision,MLP vs LVQ,Wilcoxon,0.0,0.0625
+precision,All models,Friedman,19.36,0.0006677296603150804
+recall,Decision Tree vs SVM,Wilcoxon,0.0,0.0625
+recall,Decision Tree vs KNN,Wilcoxon,0.0,0.0625
+recall,Decision Tree vs MLP,Wilcoxon,0.0,0.0625
+recall,Decision Tree vs LVQ,Wilcoxon,0.0,0.0625
+recall,SVM vs KNN,Wilcoxon,0.0,0.0625
+recall,SVM vs MLP,Wilcoxon,7.0,1.0
+recall,SVM vs LVQ,Wilcoxon,0.0,0.0625
+recall,KNN vs MLP,Wilcoxon,0.0,0.0625
+recall,KNN vs LVQ,Wilcoxon,0.0,0.0625
+recall,MLP vs LVQ,Wilcoxon,0.0,0.0625
+recall,All models,Friedman,19.040000000000006,0.0007718488689673323
+f1,Decision Tree vs SVM,Wilcoxon,0.0,0.0625
+f1,Decision Tree vs KNN,Wilcoxon,0.0,0.0625
+f1,Decision Tree vs MLP,Wilcoxon,0.0,0.0625
+f1,Decision Tree vs LVQ,Wilcoxon,0.0,0.0625
+f1,SVM vs KNN,Wilcoxon,0.0,0.0625
+f1,SVM vs MLP,Wilcoxon,2.0,0.1875
+f1,SVM vs LVQ,Wilcoxon,0.0,0.0625
+f1,KNN vs MLP,Wilcoxon,0.0,0.0625
+f1,KNN vs LVQ,Wilcoxon,0.0,0.0625
+f1,MLP vs LVQ,Wilcoxon,0.0,0.0625
+f1,All models,Friedman,19.36,0.0006677296603150804
+roc_auc,Decision Tree vs SVM,Wilcoxon,0.0,0.0625
+roc_auc,Decision Tree vs KNN,Wilcoxon,0.0,0.0625
+roc_auc,Decision Tree vs MLP,Wilcoxon,0.0,0.0625
+roc_auc,Decision Tree vs LVQ,Wilcoxon,0.0,0.0625
+roc_auc,SVM vs KNN,Wilcoxon,0.0,0.0625
+roc_auc,SVM vs MLP,Wilcoxon,0.0,0.0625
+roc_auc,SVM vs LVQ,Wilcoxon,0.0,0.0625
+roc_auc,KNN vs MLP,Wilcoxon,0.0,0.0625
+roc_auc,KNN vs LVQ,Wilcoxon,0.0,0.0625
+roc_auc,MLP vs LVQ,Wilcoxon,0.0,0.0625
+roc_auc,All models,Friedman,20.0,0.0004993992273873336
